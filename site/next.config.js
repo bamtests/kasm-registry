@@ -2,11 +2,11 @@
 
 const nextConfig = {
   env: {
-    name: 'Kasm Technologies',
-    description: 'The official store for Kasm supported workspaces.',
+    name: 'bamtests kasm registry',
+    description: '3rd party registry adding some common applications',
     icon: '/img/logo.svg',
-    listUrl: 'https://registry.kasmweb.com/',
-    contactUrl: 'https://kasmweb.com/support',
+    listUrl: 'https://bamtests.github.io/kasm-registry/',
+    contactUrl: 'https://github.com/bamtests/kasm-registry/issues',
   },
   reactStrictMode: true,
   swcMinify: true,
