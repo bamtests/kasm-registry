@@ -3,6 +3,9 @@
   "image_src": "ubuntu.png",
   "description": "Browser accessible Ubunutu desktop including rootless docker (dind) with some open source software alternatives and some other added prodictivity tools",
   "name": "bambam018/kasmweb-ubuntu-dind-rootless-extras:latest",
+  "run_config": {
+    "privileged": "true"
+  },
   "cores": 2,
   "memory": 2768,
   "gpu_count": 0,
