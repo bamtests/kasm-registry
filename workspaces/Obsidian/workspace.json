@@ -1,6 +1,6 @@
 {
   "friendly_name": "Obsidian",
-  "image_src": "https://link.storjshare.io/jx6gv37i63qy6dkntovoxsaj4j2q/readme-photos%2Fkasmweb%2Fobsidian.ico?view=1",
+  "image_src": "obsidian.ico",
   "description": "Browser accessible version of Obsidian",
   "name": "bambam018/kasmweb-obsidian:latest",
   "cores": 2,
