@@ -5,7 +5,7 @@ const nextConfig = {
     name: 'bamtests kasm registry',
     description: '3rd party registry adding some common applications',
     icon: '/img/logo.svg',
-    listUrl: 'https://bamtests.github.io/kasm-registry/',
+    listUrl: 'https://github.com/bamtests/kasm-registry/',
     contactUrl: 'https://github.com/bamtests/kasm-registry/issues',
   },
   reactStrictMode: true,
