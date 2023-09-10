@@ -1,7 +1,7 @@
 {
   "friendly_name": "Freetube",
   "image_src": "freetube.ico",
-  "description": "Browser accessible version of Obsidian",
+  "description": "Browser accessible version of Freetube",
   "name": "bambam018/kasmweb-freetube:latest",
   "cores": 4,
   "memory": 4096,
